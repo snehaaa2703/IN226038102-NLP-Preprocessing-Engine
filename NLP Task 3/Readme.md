@@ -1,7 +1,7 @@
 # 🤖 NLP Chatbot using Hugging Face Transformers
 
-## 📌 Project Overview
-This project implements a simple conversational chatbot using Hugging Face Transformers and a pre-trained language model. The chatbot interacts with users, understands input text, and generates meaningful responses.
+## 📌 Task Overview
+This task implements a simple conversational chatbot using Hugging Face Transformers and a pre-trained language model. The chatbot interacts with users, understands input text, and generates meaningful responses.
 
 ---
 
