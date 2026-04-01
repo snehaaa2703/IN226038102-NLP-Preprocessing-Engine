@@ -30,6 +30,7 @@ pip install transformers torch
 Add voice interaction
 Deploy as web app
 
+
 ## 🧠 How It Works
 User enters input text
 Text is tokenized using Hugging Face tokenizer
